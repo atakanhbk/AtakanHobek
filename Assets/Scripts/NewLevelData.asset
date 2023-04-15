@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c96f305beedf424181d9265cf17dc42, type: 3}
+  m_Name: NewLevelData
+  m_EditorClassIdentifier: 
+  levelList:
+  - {fileID: 3037841461391246340, guid: c26a926c94785954ba6449aa45e0736a, type: 3}
+  - {fileID: 5985723893002933204, guid: 21f98dd3a9c8c4d498ce17bc26ccb9fa, type: 3}
+  gameOverScreen: {fileID: 2574625242876851249, guid: 8cc0d04a4a55f5a4b8025eb32ebb3b62, type: 3}
+  levelNumber: 0
+  totalCubeNumber: 0
