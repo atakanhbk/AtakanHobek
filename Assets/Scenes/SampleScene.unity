@@ -454,9 +454,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1367859020}
   m_Layer: 0
-  m_Name: TAG HATASI VERIRSE OYUNU BASTAN BASLATABILIR MISINIZ. SANIRIM SURUMDEN
-    KAYNAKLI
-  m_TagString: Untagged
+  m_Name: TAG HATASI VERIRSE BURAYA TIKLAYIP TEKRAR CALISTIRABILIRSINIZ. BAZEN SURUMDEN
+    KAYNAKLI BIR HATA VERIYOR.
+  m_TagString: CollectedCube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
